@@ -27,6 +27,9 @@ I'm a passionate **ML Engineer** & **AI Enthusiast**, driven by the power of dat
 ### 🍽️ [**Just Biryani Please**](https://justbiryaniplease.com)  
 *🍚 A website for ordering biryani with regular price carts and easy navigation for food lovers.*
 
+### ✅ [**To-Do List App**](https://hadishah123.github.io/To-Do-List/)  
+*📝 A simple to-do list app that saves tasks in local storage, persisting until deleted.*
+
 ### 🔍 [**GitHub Explorer**](https://hadishah123.github.io/Github-Profile-Search/)  
 *🌐 Search and explore GitHub profiles by username with detailed insights and stats.*
 
@@ -35,6 +38,8 @@ I'm a passionate **ML Engineer** & **AI Enthusiast**, driven by the power of dat
 
 ### 😂 [**Humor Hub**](https://hadishah123.github.io/Humor-Hub/)
 *🤣 A fun platform that generates jokes using an API call, providing a quick laugh at your fingertips.*
+
+
 
 
 
