@@ -18,6 +18,9 @@ I'm a passionate **ML Engineer** & **AI Enthusiast**, driven by the power of dat
 ---
 
 ## **My Awesome Projects**
+### 📝 [Resume Builder](https://hadishah123.github.io/Resume-Builder)  
+*💼 A platform that helps users create professional resumes with ease, featuring customizable templates and a simple interface.*
+
 ### 🔊 [**Noise Website Clone**](https://noise-clone2.netlify.app/)  
 *📱 A clone of the Noise website that showcases product details with a more modern and cooler design than the original site.*
 
