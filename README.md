@@ -1,10 +1,10 @@
 # 👋 **Hey there! I'm Abdul Hadi** 🤖
 
-I'm a passionate **ML Engineer** & **AI Enthusiast**, driven by the power of data and artificial intelligence. I specialize in building 🔥 **data-driven solutions** with expertise in **Python**, **data analysis**, **NLP**, and cutting-edge **machine learning** techniques. My goal is to create impactful models that solve real-world problems and push the boundaries of **AI**.
+I’m an **ML Engineer** and **Full-Stack Developer** passionate about creating innovative solutions that merge the power of **AI**, **Machine Learning**, and **Web Development**. I specialize in building **data-driven systems** with expertise in **Python**, **NLP**, **React**, and cutting-edge technologies. My goal is to harness the potential of data to solve real-world challenges and drive impactful change.
 
-💡 I focus on crafting **effective NLP models**, optimizing **algorithms**, and exploring the latest in **AI technologies**. I’m all about **continuous learning** and always looking for opportunities to collaborate on projects that make a difference. 🚀
+💡 I focus on developing **scalable AI models**, building **dynamic web applications**, and continuously exploring the latest advancements in **AI** and **ML**. My journey is fueled by a commitment to **learning**, **collaboration**, and delivering solutions that matter. 🚀
 
-🌟 Whether it's building **innovative projects**, collaborating with talented teams, or diving into emerging technologies, I’m excited to bring ideas to life and push the envelope in AI.
+🌟 Whether it's crafting **next-gen applications**, diving into emerging **AI tools**, or collaborating with brilliant minds, I’m excited to contribute to projects that push boundaries and make a difference.
 
 ---
 
