@@ -11,7 +11,7 @@ I’m an **ML Engineer** and **Full-Stack Developer** passionate about creating 
 ## **About Me**
 
 - 💻 **Skilled in**: **Python**, **SQL**, **HTML/CSS**, **JavaScript**, **React**, **Full-Stack Development** 💻  
-- 🎓 **Currently pursuing BCA (2nd Year)** at **SFS College, Seminary Hills, Nagpur** 🎯  
+- 🎓 **Currently pursuing BCA (3rd Year)** at **RTMNU** 🎯  
 - 🤝 Passionate about **learning**, **collaboration**, and creating meaningful **impact** 👫  
 - 📍 **ML-NLP Engineer & Full-Stack Developer** – Focused on driving **AI**, **ML**, and **Full-Stack Development** innovation 📍  
 
