@@ -43,7 +43,7 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
       <p>🥗 A platform to book diet appointments, explore plans, calculate BMI, and check reviews. Built with JavaScript and React.</p>
     </td>
     <td align="center" valign="top" width="400">
-      <h3>🍽️ <a href="https://justbiryaniplease.com" target="_blank"><strong>Just Biryani Please</strong></a></h3>
+      <h3>🍽️ <a href="https://hadishah123.github.io/JustBiryaniPlease/" target="_blank"><strong>Just Biryani Please</strong></a></h3>
       <p>🍚 A website for ordering biryani with regular price carts and easy navigation for food lovers.</p>
     </td>
   </tr>
