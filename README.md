@@ -39,7 +39,7 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
   </tr>
   <tr>
     <td align="center" valign="top" width="400">
-      <h3>🍎 <a href="https://justdiet.pro" target="_blank"><strong>FitTrack: Dieting & Wellness</strong></a></h3>
+      <h3>🍎 <a href="https://justdiet.vercel.app" target="_blank"><strong>FitTrack: Dieting & Wellness</strong></a></h3>
       <p>🥗 A platform to book diet appointments, explore plans, calculate BMI, and check reviews. Built with JavaScript and React.</p>
     </td>
     <td align="center" valign="top" width="400">
