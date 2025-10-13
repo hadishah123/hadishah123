@@ -33,7 +33,7 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
       <p>💼 A platform that helps users create professional resumes with ease, featuring customizable templates and a simple interface.</p>
     </td>
     <td align="center" valign="top" width="400">
-      <h3>⚡ <a href="https://noise-clone2.netlify.app/" target="_blank"><strong>FlashChat</strong></a></h3>
+      <h3>⚡ <a href="https://flashchat-tsjz.onrender.com" target="_blank"><strong>FlashChat</strong></a></h3>
       <p>💬 A real-time chat app for quick, private conversations using a Room ID — no sign-up, no history, chats disappear when you leave.</p>
     </td>
   </tr>
