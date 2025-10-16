@@ -16,7 +16,7 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
 
 <ul>
   <li>🎓 <strong>Currently pursuing BCA (Final Year)</strong> at <strong>RTMNU</strong> 🎯</li>
-  <li>💻 <strong>Skilled in:</strong> Python, SQL, HTML/CSS, Bootstrap, Tailwind, JavaScript, TypeScript, React, and Full-Stack Development 💻</li>
+  <li>💻 <strong>Skilled in:</strong> Python, SQL, HTML/CSS, Bootstrap, Tailwind, JavaScript, React, Express.js and Full-Stack Development 💻</li>
   <li>🚀 <strong>Aspiring ML/NLP Engineer & Full-Stack Developer</strong> – Focused on mastering <strong>AI</strong>, <strong>Machine Learning</strong>, and <strong>Web Development</strong></li>
   <li>🤝 Passionate about <strong>learning</strong>, <strong>collaboration</strong>, and building meaningful solutions that create real-world <strong>impact</strong> 👫</li>
 </ul>
