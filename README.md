@@ -14,13 +14,14 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
 
 <h2 align="center" style="color:#61DAFB;">👨‍💻 About Me ✨</h2>
 
-<ul>
-  <li>🎓 <strong>BCA, RTMNU – Completed ✅</strong></li>
-  <li>💻 <strong>Skilled in:</strong> Python, SQL, HTML/CSS, Bootstrap, Tailwind, JavaScript, React, Express.js and Full-Stack Development 💻</li>
-  <li>🚀 <strong>Aspiring ML/NLP Engineer & Full-Stack Developer</strong> – Focused on mastering <strong>AI</strong>, <strong>Machine Learning</strong>, and <strong>Web Development</strong></li>
-  <li>🤝 Passionate about <strong>learning</strong>, <strong>collaboration</strong>, and building meaningful solutions that create real-world <strong>impact</strong> 👫</li>
+<ul style="line-height: 1.8; font-size: 1.05rem;">
+  <li>💻 <strong>Technical Skillset:</strong> Python, SQL, HTML/CSS, Bootstrap, Tailwind, JavaScript, React, Express.js, and Full-Stack Web Development.</li>
+
+  <li>🚀 <strong>Aspiring ML & NLP Engineer + Full-Stack Developer</strong> — currently advancing skills in 
+      <strong>AI</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Modern Web Technologies</strong>.</li>
+
+  <li>🤝 <strong>Driven by curiosity and collaboration</strong> — passionate about building meaningful, real-world solutions through clean code, intelligent systems, and impactful design.</li>
 </ul>
-  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -29,43 +30,47 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
 <table align="center" cellspacing="15">
   <tr>
     <td align="center" valign="top" width="400">
+      <h3>📊 <a href="https://github.com/hadishah123/resume-analyzer-ai" target="_blank"><strong>AI Resume Analyzer</strong></a></h3>
+      <p>🤖 AI-powered FastAPI service for extracting resume text, matching candidates to job descriptions, and analyzing key skills/keywords.</p>
+    </td>
+    <td align="center" valign="top" width="400">
       <h3>📝 <a href="https://hadishah123.github.io/Resume-Builder" target="_blank"><strong>Resume Builder</strong></a></h3>
       <p>💼 A platform that helps users create professional resumes with ease, featuring customizable templates and a simple interface.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="400">
       <h3>⚡ <a href="https://flashchat-tsjz.onrender.com" target="_blank"><strong>FlashChat</strong></a></h3>
       <p>💬 A real-time chat app for quick, private conversations using a Room ID — no sign-up, no history, chats disappear when you leave.</p>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="400">
       <h3>🍎 <a href="https://justdiet.vercel.app" target="_blank"><strong>FitTrack: Dieting & Wellness</strong></a></h3>
       <p>🥗 A platform to book diet appointments, explore plans, calculate BMI, and check reviews. Built with JavaScript and React.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="400">
      <h3>🎮 <a href="https://rps-royale.onrender.com/" target="_blank"><strong>RPS-Royale</strong></a></h3>
      <p>✊✋✌️ RPS Multiplayer is a simple real-time game where two players can play Rock, Paper, Scissors from different devices by sharing the same Game ID.</p>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="400">
       <h3>✅ <a href="https://hadishah123.github.io/To-Do-List/" target="_blank"><strong>To-Do List App</strong></a></h3>
       <p>📝 A simple to-do list app that saves tasks in local storage, persisting until deleted.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="400">
       <h3>🔍 <a href="https://hadishah123.github.io/Github-Profile-Search/" target="_blank"><strong>GitHub Explorer</strong></a></h3>
       <p>🌐 Search and explore GitHub profiles by username with detailed insights and stats.</p>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="400">
       <h3>🎨 <a href="https://hadishah123.github.io/Gradient-Gazer/" target="_blank"><strong>Gradient Gazer</strong></a></h3>
       <p>🌈 An intuitive tool for generating linear gradients in a few simple steps, with easy copy-paste functionality.</p>
     </td>
-    <td align="center" valign="top" width="400">
+    <!-- <td align="center" valign="top" width="400">
       <h3>😂 <a href="https://hadishah123.github.io/Humor-Hub/" target="_blank"><strong>Humor Hub</strong></a></h3>
       <p>🤣 A fun platform that generates jokes using an API call, providing a quick laugh at your fingertips.</p>
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -73,56 +78,74 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center">⚙️ <strong>Programming & Technical Skills</strong></h2>
 
-<h2 align="center">⚙️ <strong>Programming Skills</strong></h2>
-
+<!-- Programming Languages -->
+<h3 align="center">🖥️ Languages</h3>
 <p align="center">
-  <a href="https://www.python.org/" target="_blank" title="Python" style="margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5" style="margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3" style="margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" style="margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript" style="margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" title="React" style="margin:0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 </p>
 
-<h3 align="center" style="color:#61DAFB;">💾 Data Management</h3>
-
+<!-- AI / Machine Learning -->
+<h3 align="center">🤖 AI • Machine Learning • NLP</h3>
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank" title="SQL" style="margin:0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB" style="margin:0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/NLP-Text%20Processing-blue?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-red?style=for-the-badge" height="30"/>
 </p>
 
-<h3 align="center" style="color:#61DAFB;">📊 Data Visualization</h3>
-
+<!-- Backend -->
+<h3 align="center">🛠️ Backend Development</h3>
 <p align="center">
-  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI" style="margin:0 15px;">
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" width="120"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/>
 </p>
 
-<h3 align="center" style="color:#61DAFB;">📈 Spreadsheets</h3>
-
+<!-- Frontend -->
+<h3 align="center">🎨 Frontend Development</h3>
 <p align="center">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" title="Excel" style="margin:0 15px;">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" width="120"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30"/>
 </p>
+
+<!-- Databases -->
+<h3 align="center">💾 Databases</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://img.shields.io/badge/VectorDB-Pinecone-blue?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/ChromaDB-green?style=for-the-badge" height="30"/>
+</p>
+
+<!-- Data Visualization -->
+<h3 align="center">📊 Data Visualization</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" height="30"/>
+</p>
+
+<!-- Tools -->
+<h3 align="center">🧰 Tools & DevOps</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/CI/CD-Pipelines-orange?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-F29100?style=for-the-badge&logo=aws-lambda&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
+</p>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -144,11 +167,14 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
   <a href="mailto:hadishah.work@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/hadi-shah786/" target="_blank">
+  <a href="https://www.linkedin.com/in/hadishah123" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://www.twitter.com/godking_Ryuma" target="_blank">
     <img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter"/>
+  </a>
+    <a href="https://hadishah.vercel.app" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
   </a>
 </p>
 
