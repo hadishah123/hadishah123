@@ -34,8 +34,8 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
       <p>🤖 AI-powered FastAPI service for extracting resume text, matching candidates to job descriptions, and analyzing key skills/keywords.</p>
     </td>
     <td align="center" valign="top" width="400">
-      <h3>📝 <a href="https://hadishah123.github.io/Resume-Builder" target="_blank"><strong>Resume Builder</strong></a></h3>
-      <p>💼 A platform that helps users create professional resumes with ease, featuring customizable templates and a simple interface.</p>
+      <h3>😷 <a href="https://github.com/hadishah123/Face_Mask_Detection" target="_blank"><strong>Face Mask Detection</strong></a></h3>
+      <p>🧠 A computer vision project using Python, OpenCV, and TensorFlow/Keras to detect face masks in real-time through a webcam.</p>
     </td>
   </tr>
   <tr>
@@ -44,34 +44,40 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
       <p>💬 A real-time chat app for quick, private conversations using a Room ID — no sign-up, no history, chats disappear when you leave.</p>
     </td>
     <td align="center" valign="top" width="400">
-      <h3>🍎 <a href="https://justdiet.vercel.app" target="_blank"><strong>FitTrack: Dieting & Wellness</strong></a></h3>
-      <p>🥗 A platform to book diet appointments, explore plans, calculate BMI, and check reviews. Built with JavaScript and React.</p>
+     <h3>🎮 <a href="https://rps-royale.onrender.com/" target="_blank"><strong>RPS-Royale</strong></a></h3>
+     <p>✊✋✌️ RPS Multiplayer is a simple real-time game where two players can play Rock, Paper, Scissors from different devices by sharing the same Game ID.</p>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="400">
-     <h3>🎮 <a href="https://rps-royale.onrender.com/" target="_blank"><strong>RPS-Royale</strong></a></h3>
-     <p>✊✋✌️ RPS Multiplayer is a simple real-time game where two players can play Rock, Paper, Scissors from different devices by sharing the same Game ID.</p>
+      <h3>🍎 <a href="https://justdiet.vercel.app" target="_blank"><strong>FitTrack: Dieting & Wellness</strong></a></h3>
+      <p>🥗 A platform to book diet appointments, explore plans, calculate BMI, and check reviews. Built with JavaScript and React.</p>
     </td>
+    <td align="center" valign="top" width="400">
+      <h3>📝 <a href="https://hadishah123.github.io/Resume-Builder" target="_blank"><strong>Resume Builder</strong></a></h3>
+      <p>💼 A platform that helps users create professional resumes with ease, featuring customizable templates and a simple interface.</p>
+    </td>
+  <!-- </tr>
+  <tr>
     <td align="center" valign="top" width="400">
       <h3>✅ <a href="https://hadishah123.github.io/To-Do-List/" target="_blank"><strong>To-Do List App</strong></a></h3>
       <p>📝 A simple to-do list app that saves tasks in local storage, persisting until deleted.</p>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="400">
       <h3>🔍 <a href="https://hadishah123.github.io/Github-Profile-Search/" target="_blank"><strong>GitHub Explorer</strong></a></h3>
       <p>🌐 Search and explore GitHub profiles by username with detailed insights and stats.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="400">
       <h3>🎨 <a href="https://hadishah123.github.io/Gradient-Gazer/" target="_blank"><strong>Gradient Gazer</strong></a></h3>
       <p>🌈 An intuitive tool for generating linear gradients in a few simple steps, with easy copy-paste functionality.</p>
     </td>
-    <!-- <td align="center" valign="top" width="400">
+    <td align="center" valign="top" width="400">
       <h3>😂 <a href="https://hadishah123.github.io/Humor-Hub/" target="_blank"><strong>Humor Hub</strong></a></h3>
       <p>🤣 A fun platform that generates jokes using an API call, providing a quick laugh at your fingertips.</p>
-    </td> -->
-  </tr>
+    </td>
+  </tr> -->
 </table>
 
 
@@ -126,8 +132,8 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
-  <img src="https://img.shields.io/badge/VectorDB-Pinecone-blue?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/ChromaDB-green?style=for-the-badge" height="30"/>
+  <!-- <img src="https://img.shields.io/badge/VectorDB-Pinecone-blue?style=for-the-badge" height="30"/> -->
+  <!-- <img src="https://img.shields.io/badge/ChromaDB-green?style=for-the-badge" height="30"/> -->
 </p>
 
 <!-- Data Visualization -->
@@ -140,8 +146,8 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
 <h3 align="center">🧰 Tools & DevOps</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/CI/CD-Pipelines-orange?style=for-the-badge" height="30"/>
+  <!-- <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30"/> -->
+  <!-- <img src="https://img.shields.io/badge/CI/CD-Pipelines-orange?style=for-the-badge" height="30"/> -->
   <img src="https://img.shields.io/badge/AWS%20Lambda-F29100?style=for-the-badge&logo=aws-lambda&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
 </p>
@@ -150,11 +156,11 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center" style="color:#61DAFB;">📉 Performance Stats ⚡</h3>
+<!-- <h3 align="center" style="color:#61DAFB;">📉 Performance Stats ⚡</h3>
 <div align="center">
   
 ![Hadi Shah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadishah123&theme=transparent&show_icons=true&bg_color=00000000&card_width=450&hide_border=true&rank_icon=percentile&hide_title=true)
-</div>
+</div> -->
 
 ![Hadi Shah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hadishah123&theme=react-dark)
 
