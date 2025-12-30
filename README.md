@@ -104,9 +104,9 @@ I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
-  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/NLP-Text%20Processing-blue?style=for-the-badge" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/></br>
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge" height="30"/></br>
+  <img src="https://img.shields.io/badge/NLP-Text%20Processing-blue?style=for-the-badge" height="30"/></br>
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-red?style=for-the-badge" height="30"/>
 </p>
 
