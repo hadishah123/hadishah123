@@ -4,7 +4,7 @@
 
 
 
-I’m an **aspiring ML Engineer** and **Full-Stack Developer** passionate about building innovative solutions at the intersection of **AI**, **Machine Learning**, and **Web Development**. I'm currently focused on sharpening my skills in **Python**, **NLP**, **React**, and **data-driven development** to prepare for real-world ML challenges.
+I’m an **aspiring AI Engineer** and **Full-Stack Developer** passionate about building innovative solutions at the intersection of **AI**, **Machine Learning**, and **Web Development**. I'm currently focused on sharpening my skills in **Python**, **NLP**, **React**, and **data-driven development** to prepare for real-world challenges.
 
 💡 I'm actively learning how to develop **scalable AI models**, create **dynamic web applications**, and stay updated with the latest advancements in **AI** and **ML**. My journey is fueled by a strong commitment to **continuous learning**, **hands-on practice**, and **collaboration**.
 
