@@ -15,7 +15,7 @@ I’m an **aspiring AI Engineer** and **Full-Stack Developer** passionate about 
 <h2 align="center" style="color:#61DAFB;">👨‍💻 About Me ✨</h2>
 
 <ul style="line-height: 1.8; font-size: 1.05rem;">
-  <li>💻 <strong>Technical Skillset:</strong> Python, SQL, HTML/CSS, Bootstrap, Tailwind, JavaScript, React, Express.js, and Full-Stack Web Development.</li>
+  <li>💻 <strong>Technical Skillset:</strong> Python, SQL, MongoDB, HTML/CSS, Bootstrap, Tailwind, JavaScript, React, Express.js, and Full-Stack Web Development.</li>
 
   <li>🚀 <strong>Aspiring ML & NLP Engineer + Full-Stack Developer</strong> — currently advancing skills in 
       <strong>AI</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Modern Web Technologies</strong>.</li>
