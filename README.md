@@ -84,74 +84,189 @@ I’m an **aspiring AI Engineer** and **Full-Stack Developer** passionate about 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="center">⚙️ <strong>Programming & Technical Skills</strong></h2>
+<!-- <h2 align="center">⚙️ <strong>Programming & Technical Skills</strong></h2> -->
 
 <!-- Programming Languages -->
-<h3 align="center">🖥️ Languages</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-</p>
+<h2 align="center">💻 Programming Languages</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+<sub><b>Python</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=javascript" width="50"/><br>
+<sub><b>JavaScript</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=typescript" width="50"/><br>
+<sub><b>TypeScript</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>
+<sub><b>HTML5</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>
+<sub><b>CSS3</b></sub>
+</td>
+</tr>
+</table>
+
+---
 
 <!-- AI / Machine Learning -->
-<h3 align="center">🤖 AI • Machine Learning • NLP</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/></br>
-  <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge" height="30"/></br>
-  <img src="https://img.shields.io/badge/NLP-Text%20Processing-blue?style=for-the-badge" height="30"/></br>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-red?style=for-the-badge" height="30"/>
-</p>
+<h2 align="center">🤖 AI • Machine Learning • NLP</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br>
+<sub><b>PyTorch</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>
+<sub><b>TensorFlow</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br>
+<sub><b>Scikit-Learn</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=opencv" width="50"/><br>
+<sub><b>OpenCV</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br>
+<sub><b>NumPy</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>
+<sub><b>Pandas</b></sub>
+</td>
+
+</tr>
+</table>
+
+---
 
 <!-- Backend -->
-<h3 align="center">🛠️ Backend Development</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/> -->
-</p>
+<h2 align="center">🛠 Backend Development</h2>
 
+<table align="center">
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br>
+<sub><b>FastAPI</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="50"/><br>
+<sub><b>Express</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>
+<sub><b>Docker</b></sub>
+</td>
+
+</tr>
+</table>
+
+---
 <!-- Frontend -->
-<h3 align="center">🎨 Frontend Development</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30"/>
-</p>
+<h2 align="center">🎨 Frontend Development</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>
+<sub><b>React</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>
+<sub><b>Tailwind CSS</b></sub>
+</td>
+
+</tr>
+</table>
+
+---
 
 <!-- Databases -->
-<h3 align="center">💾 Databases</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
-  <!-- <img src="https://img.shields.io/badge/VectorDB-Pinecone-blue?style=for-the-badge" height="30"/> -->
-  <!-- <img src="https://img.shields.io/badge/ChromaDB-green?style=for-the-badge" height="30"/> -->
-</p>
+<h2 align="center">💾 Databases</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
+<sub><b>MySQL</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>
+<sub><b>MongoDB</b></sub>
+</td>
+
+</tr>
+</table>
+
+---
 
 <!-- Data Visualization -->
-<h3 align="center">📊 Data Visualization</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" height="30"/>
-</p>
+<h2 align="center">📊 Data Visualization</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="50"/><br>
+<sub><b>Power BI</b></sub>
+</td>
+
+</tr>
+</table>
+
+---
 
 <!-- Tools -->
-<h3 align="center">🧰 Tools & DevOps</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <!-- <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30"/> -->
-  <!-- <img src="https://img.shields.io/badge/CI/CD-Pipelines-orange?style=for-the-badge" height="30"/> -->
-  <img src="https://img.shields.io/badge/AWS%20Lambda-F29100?style=for-the-badge&logo=aws-lambda&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"/>
-</p>
+<h2 align="center">🧰 Tools & DevOps</h2>
+
+<table align="center">
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+<sub><b>Git</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws" width="50"/><br>
+<sub><b>AWS</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="50"/><br>
+<sub><b>Streamlit</b></sub>
+</td>
+
+</tr>
+</table>
 
 
 
