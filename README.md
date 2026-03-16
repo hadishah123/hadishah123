@@ -57,27 +57,6 @@ I’m an **aspiring AI Engineer** and **Full-Stack Developer** passionate about 
       <h3>📝 <a href="https://hadishah123.github.io/Resume-Builder" target="_blank"><strong>Resume Builder</strong></a></h3>
       <p>💼 A platform that helps users create professional resumes with ease, featuring customizable templates and a simple interface.</p>
     </td>
-  <!-- </tr>
-  <tr>
-    <td align="center" valign="top" width="400">
-      <h3>✅ <a href="https://hadishah123.github.io/To-Do-List/" target="_blank"><strong>To-Do List App</strong></a></h3>
-      <p>📝 A simple to-do list app that saves tasks in local storage, persisting until deleted.</p>
-    </td>
-    <td align="center" valign="top" width="400">
-      <h3>🔍 <a href="https://hadishah123.github.io/Github-Profile-Search/" target="_blank"><strong>GitHub Explorer</strong></a></h3>
-      <p>🌐 Search and explore GitHub profiles by username with detailed insights and stats.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="400">
-      <h3>🎨 <a href="https://hadishah123.github.io/Gradient-Gazer/" target="_blank"><strong>Gradient Gazer</strong></a></h3>
-      <p>🌈 An intuitive tool for generating linear gradients in a few simple steps, with easy copy-paste functionality.</p>
-    </td>
-    <td align="center" valign="top" width="400">
-      <h3>😂 <a href="https://hadishah123.github.io/Humor-Hub/" target="_blank"><strong>Humor Hub</strong></a></h3>
-      <p>🤣 A fun platform that generates jokes using an API call, providing a quick laugh at your fingertips.</p>
-    </td>
-  </tr> -->
 </table>
 
 
@@ -147,6 +126,16 @@ I’m an **aspiring AI Engineer** and **Full-Stack Developer** passionate about 
 </td>
 
 <td align="center" width="120">
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="50"/><br>
+<sub><b>LangChain</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50"/><br>
+<sub><b>Hugging Face</b></sub>
+</td>
+
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br>
 <sub><b>NumPy</b></sub>
 </td>
@@ -178,6 +167,11 @@ I’m an **aspiring AI Engineer** and **Full-Stack Developer** passionate about 
 </td>
 
 <td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>
+<sub><b>Node.js</b></sub>
+</td>
+
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=docker" width="50"/><br>
 <sub><b>Docker</b></sub>
 </td>
@@ -198,8 +192,18 @@ I’m an **aspiring AI Engineer** and **Full-Stack Developer** passionate about 
 </td>
 
 <td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>
+<sub><b>Next.js</b></sub>
+</td>
+
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>
 <sub><b>Tailwind CSS</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>
+<sub><b>Bootstrap</b></sub>
 </td>
 
 </tr>
@@ -239,6 +243,11 @@ I’m an **aspiring AI Engineer** and **Full-Stack Developer** passionate about 
 <sub><b>Power BI</b></sub>
 </td>
 
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/><br>
+<sub><b>Matplotlib</b></sub>
+</td>
+
 </tr>
 </table>
 
@@ -265,6 +274,16 @@ I’m an **aspiring AI Engineer** and **Full-Stack Developer** passionate about 
 <sub><b>Streamlit</b></sub>
 </td>
 
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
+<sub><b>VS Code</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="50"/><br>
+<sub><b>Postman</b></sub>
+</td>
+
 </tr>
 </table>
 
@@ -285,36 +304,73 @@ I’m an **aspiring AI Engineer** and **Full-Stack Developer** passionate about 
 
 <h2 align="center" style="color:#61DAFB;">📬 Contact Information</h2>
 
-<p align="center">
-  <a href="mailto:hadishah.work@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hadishah123" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.twitter.com/godking_Ryuma" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter"/>
-  </a>
-    <a href="https://hadishah.vercel.app" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+
+<td align="center" width="120">
+<a href="mailto:hadishah.work@gmail.com" target="_blank">
+<img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+</a><br>
+<sub><b>Email</b></sub>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.linkedin.com/in/hadishah123" target="_blank">
+<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+</a><br>
+<sub><b>LinkedIn</b></sub>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.twitter.com/godking_Ryuma" target="_blank">
+<img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter"/>
+</a><br>
+<sub><b>Twitter</b></sub>
+</td>
+
+<td align="center" width="120">
+<a href="https://hadishah.vercel.app" target="_blank">
+<img src="https://res.cloudinary.com/dlj2gfu2n/image/upload/v1773664299/logo_e6efiy.png" alt="Portfolio" width="50"/>
+</a><br>
+<sub><b>Portfolio</b></sub>
+</td>
+
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🎮✨ <strong>Fun Facts About Me</strong> ✨📚</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Gamer-🎮-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Manga_Lover-📚-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Enthusiast-🤖-purple?style=for-the-badge"/>
-</p>
+<table align="center">
+<tr>
 
-<ul>
-  <li>🎮 <strong>Gamer</strong>: I’m a content creator who enjoys <strong>Call of Duty</strong>, <strong>Free Fire</strong>, <strong>Chess</strong>, and <strong>Cricket</strong> 🏏.</li>
-  <li>📚 <strong>Bookworm</strong>: I love reading, especially <strong>One Piece</strong> and manga! 🏴‍☠️</li>
-  <li>🤓 <strong>Tech Geek</strong>: Always exploring the latest in <strong>AI</strong>, <strong>ML</strong>, and tech trends 💻.</li>
-</ul>
+<td align="center" width="160">
+<img src="https://img.icons8.com/emoji/48/000000/video-game-emoji.png" width="50"/><br>
+<sub><b>Gamer</b></sub><br>
+Call of Duty, Free Fire, Chess ♟️, Cricket 🏏
+</td>
+
+<td align="center" width="160">
+<img src="https://img.icons8.com/emoji/48/000000/open-book-emoji.png" width="50"/><br>
+<sub><b>Bookworm</b></sub><br>
+Reading manga like One Piece 🏴‍☠️
+</td>
+
+<td align="center" width="160">
+<img src="https://img.icons8.com/emoji/48/000000/nerd-face.png" width="50"/><br>
+<sub><b>Tech Geek</b></sub><br>
+Exploring AI 🤖, ML 💻, Cloud ☁️
+</td>
+
+<td align="center" width="160">
+<img src="https://img.icons8.com/emoji/48/000000/soccer-ball-emoji.png" width="50"/><br>
+<sub><b>Sports Lover</b></sub><br>
+Cricket 🏏, Football ⚽, Fitness 🏋️‍♂️
+</td>
+
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
