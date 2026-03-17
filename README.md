@@ -4,62 +4,75 @@
 
 
 
-I’m an **aspiring AI Engineer** and **Full-Stack Developer** passionate about building innovative solutions at the intersection of **AI**, **Machine Learning**, and **Web Development**. I'm currently focused on sharpening my skills in **Python**, **NLP**, **React**, and **data-driven development** to prepare for real-world challenges.
+<div>
+💡 I build AI-powered applications that solve real-world problems.
+  
+🚀 AI Engineer & Full-Stack Developer focused on NLP, Machine Learning, and scalable systems.  
+🧠 Experienced with Python, FastAPI, TensorFlow, and React for building intelligent, production-ready apps.
 
-💡 I'm actively learning how to develop **scalable AI models**, create **dynamic web applications**, and stay updated with the latest advancements in **AI** and **ML**. My journey is fueled by a strong commitment to **continuous learning**, **hands-on practice**, and **collaboration**.
-
-🌟 Whether it's experimenting with **AI tools**, contributing to **open-source projects**, or collaborating with others who share a passion for tech, I’m excited to grow as an engineer and work on projects that push boundaries and make a real impact. 🚀
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center" style="color:#61DAFB;">👨‍💻 About Me ✨</h2>
 
-<ul style="line-height: 1.8; font-size: 1.05rem;">
-  <li>💻 <strong>Technical Skillset:</strong> Python, SQL, MongoDB, HTML/CSS, Bootstrap, Tailwind, JavaScript, React, Express.js, and Full-Stack Web Development.</li>
+<ul style="line-height: 1.8; font-size: 1.05rem; max-width: 700px; margin: auto;">
+  <li>💡 I build AI-powered applications that solve real-world problems.</li>
+  <li>🚀 AI Engineer & Full-Stack Developer specializing in <strong>NLP, Machine Learning, and Scalable Systems</strong></li>
+  <li>🧠 Skilled in <strong>Python, FastAPI, TensorFlow, React, SQL, MongoDB</strong>, and modern web technologies</li>
+  <li>🤝 Focused on creating clean, efficient, and impactful solutions</li>
+</ul>
 
-  <li>🚀 <strong>Aspiring ML & NLP Engineer + Full-Stack Developer</strong> — currently advancing skills in 
-      <strong>AI</strong>, <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>Modern Web Technologies</strong>.</li>
+<h2 align="center" style="color:#61DAFB;">💼 Currently Looking For</h2>
 
-  <li>🤝 <strong>Driven by curiosity and collaboration</strong> — passionate about building meaningful, real-world solutions through clean code, intelligent systems, and impactful design.</li>
+<ul style="list-style: none; padding-left: 0; font-size:1.1rem; line-height:1.6; max-width: 700px; margin: auto;">
+  <li>🌟 Opportunities in <strong>AI, NLP, Machine Learning, and Full-Stack Development</strong></li>
+  <li>🤝 Collaboration on innovative projects, open-source contributions, and scalable solutions</li>
+  <li>💡 Passionate about building AI-powered applications and dynamic web platforms that solve real-world problems</li>
 </ul>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center" style="color:#61DAFB;">🚀 My Awesome Projects</h2>
+<h2 align="center" style="color:#61DAFB;">🚀 My Projects</h2>
 
-<table align="center" cellspacing="15">
+<table align="center" cellspacing="30">
   <tr>
-    <td align="center" valign="top" width="400">
-      <h3>📊 <a href="https://github.com/hadishah123/resume-analyzer-ai" target="_blank"><strong>AI Resume Analyzer</strong></a></h3>
-      <p>🤖 AI-powered FastAPI service for extracting resume text, matching candidates to job descriptions, and analyzing key skills/keywords.</p>
+    <td align="center" valign="top" width="420">
+      <h3>📊 <a href="https://github.com/hadishah123/resume-analyzer-ai"><strong>AI Resume Analyzer</strong></a></h3>
+      <p>AI-powered resume analysis using NLP. Matches candidates with job descriptions. Built with FastAPI & ML pipeline.</p>
+      <p><strong>Tech:</strong> Python, FastAPI, NLP, ML</p>
     </td>
-    <td align="center" valign="top" width="400">
-      <h3>😷 <a href="https://github.com/hadishah123/Face_Mask_Detection" target="_blank"><strong>Face Mask Detection</strong></a></h3>
-      <p>🧠 A computer vision project using Python, OpenCV, and TensorFlow/Keras to detect face masks in real-time through a webcam.</p>
+    <td align="center" valign="top" width="420">
+      <h3>😷 <a href="https://github.com/hadishah123/Face_Mask_Detection"><strong>Face Mask Detection</strong></a></h3>
+      <p>Real-time face mask detection via webcam. Optimized for live video performance using OpenCV + TensorFlow.</p>
+      <p><strong>Tech:</strong> Python, OpenCV, TensorFlow, Keras</p>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="400">
-      <h3>⚡ <a href="https://flashchat-tsjz.onrender.com" target="_blank"><strong>FlashChat</strong></a></h3>
-      <p>💬 A real-time chat app for quick, private conversations using a Room ID — no sign-up, no history, chats disappear when you leave.</p>
+    <td align="center" valign="top">
+      <h3>⚡ <a href="https://flashchat-tsjz.onrender.com"><strong>FlashChat</strong></a></h3>
+      <p>Real-time anonymous chat system with room-based messaging. Privacy-focused, no data storage.</p>
+      <p><strong>Tech:</strong> Node.js, Express, WebSocket, JavaScript</p>
     </td>
-    <td align="center" valign="top" width="400">
-     <h3>🎮 <a href="https://rps-royale.onrender.com/" target="_blank"><strong>RPS-Royale</strong></a></h3>
-     <p>✊✋✌️ RPS Multiplayer is a simple real-time game where two players can play Rock, Paper, Scissors from different devices by sharing the same Game ID.</p>
+    <td align="center" valign="top">
+      <h3>🎮 <a href="https://rps-royale.onrender.com/"><strong>RPS-Royale</strong></a></h3>
+      <p>Multiplayer Rock-Paper-Scissors game with real-time gameplay across devices. Lightweight and interactive.</p>
+      <p><strong>Tech:</strong> React, Node.js, Socket.IO</p>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="400">
-      <h3>🍎 <a href="https://justdiet.vercel.app" target="_blank"><strong>FitTrack: Dieting & Wellness</strong></a></h3>
-      <p>🥗 A platform to book diet appointments, explore plans, calculate BMI, and check reviews. Built with JavaScript and React.</p>
+    <td align="center" valign="top">
+      <h3>🍎 <a href="https://justdiet.vercel.app"><strong>FitTrack</strong></a></h3>
+      <p>Diet & wellness management platform with BMI calculator & appointment booking. Built with React for dynamic UI.</p>
+      <p><strong>Tech:</strong> React, Tailwind, JavaScript</p>
     </td>
-    <td align="center" valign="top" width="400">
-      <h3>📝 <a href="https://hadishah123.github.io/Resume-Builder" target="_blank"><strong>Resume Builder</strong></a></h3>
-      <p>💼 A platform that helps users create professional resumes with ease, featuring customizable templates and a simple interface.</p>
+    <td align="center" valign="top">
+      <h3>📝 <a href="https://hadishah123.github.io/Resume-Builder"><strong>Resume Builder</strong></a></h3>
+      <p>Create resumes with customizable templates. Simple, user-friendly interface with fast, clean output generation.</p>
+      <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
     </td>
+  </tr>
 </table>
-
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -330,7 +343,7 @@ I’m an **aspiring AI Engineer** and **Full-Stack Developer** passionate about 
 
 <td align="center" width="120">
 <a href="https://hadishah.vercel.app" target="_blank">
-<img src="https://res.cloudinary.com/dlj2gfu2n/image/upload/v1773664299/logo_e6efiy.png" alt="Portfolio" width="50"/>
+<img src="https://res.cloudinary.com/dlj2gfu2n/image/upload/v1773759693/favicon_jnu42l.png" alt="Portfolio" width="50"/>
 </a><br>
 <sub><b>Portfolio</b></sub>
 </td>
@@ -376,8 +389,4 @@ Cricket 🏏, Football ⚽, Fitness 🏋️‍♂️
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=08F7FE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+universe+%F0%9F%8C%8C;Feel+free+to+collab+or+drop+a+message.;Until+next+time%2C+keep+building+the+future!"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0D1117&section=footer" />
 </p>
