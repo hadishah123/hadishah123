@@ -319,12 +319,12 @@
 
 <table align="center">
 <tr>
-
+  
 <td align="center" width="120">
-<a href="mailto:hadishah.work@gmail.com" target="_blank">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+<a href="https://hadishah.vercel.app" target="_blank">
+<img src="https://res.cloudinary.com/dlj2gfu2n/image/upload/v1773759693/favicon_jnu42l.png" alt="Portfolio" width="50"/>
 </a><br>
-<sub><b>Email</b></sub>
+<sub><b>Portfolio</b></sub>
 </td>
 
 <td align="center" width="120">
@@ -335,17 +335,17 @@
 </td>
 
 <td align="center" width="120">
+<a href="mailto:hadishah.work@gmail.com" target="_blank">
+<img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+</a><br>
+<sub><b>Email</b></sub>
+</td>
+
+<td align="center" width="120">
 <a href="https://www.twitter.com/godking_Ryuma" target="_blank">
 <img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter"/>
 </a><br>
 <sub><b>Twitter</b></sub>
-</td>
-
-<td align="center" width="120">
-<a href="https://hadishah.vercel.app" target="_blank">
-<img src="https://res.cloudinary.com/dlj2gfu2n/image/upload/v1773759693/favicon_jnu42l.png" alt="Portfolio" width="50"/>
-</a><br>
-<sub><b>Portfolio</b></sub>
 </td>
 
 </tr>
@@ -361,7 +361,7 @@
 <td align="center" width="160">
 <img src="https://img.icons8.com/emoji/48/000000/video-game-emoji.png" width="50"/><br>
 <sub><b>Gamer</b></sub><br>
-Call of Duty, Free Fire, Chess ♟️, Cricket 🏏
+Free Fire, Call of Duty, Chess ♟️
 </td>
 
 <td align="center" width="160">
@@ -379,7 +379,7 @@ Exploring AI 🤖, ML 💻, Cloud ☁️
 <td align="center" width="160">
 <img src="https://img.icons8.com/emoji/48/000000/soccer-ball-emoji.png" width="50"/><br>
 <sub><b>Sports Lover</b></sub><br>
-Cricket 🏏, Football ⚽, Fitness 🏋️‍♂️
+Cricket 🏏, Baseball ⚾
 </td>
 
 </tr>
