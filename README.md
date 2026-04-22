@@ -33,49 +33,58 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center" style="color:#61DAFB;">🚀 My Projects</h2>
+<h2 align="center">🚀 My Projects</h2>
 
-<table align="center" cellspacing="30">
+<table>
   <tr>
-    <td align="center" valign="top" width="420">
-      <h3>📊 <a href="https://github.com/hadishah123/resume-analyzer-ai"><strong>AI Resume Analyzer</strong></a></h3>
-      <p>AI-powered resume analysis using NLP. Matches candidates with job descriptions. Built with FastAPI & ML pipeline.</p>
-      <p><strong>Tech:</strong> Python, FastAPI, NLP, ML</p>
+  <td width="50%" valign="top">
+  
+  ###  🍟 [SnackHub — MERN Food Delivery App](https://snackhub-nagpur.vercel.app)
+Production-grade full-stack food delivery platform with hybrid authentication and real-time order tracking.
+
+💳 Razorpay Payment Integration  
+🔐 Firebase Auth + JWT Security  
+📍 Live Order Tracking System  
+🧠 Role-Based Access Control  
+
+**Tech:** React (Vite), Node.js, Express, MongoDB, Firebase, Razorpay
     </td>
-    <td align="center" valign="top" width="420">
-      <h3>😷 <a href="https://github.com/hadishah123/Face_Mask_Detection"><strong>Face Mask Detection</strong></a></h3>
-      <p>Real-time face mask detection via webcam. Optimized for live video performance using OpenCV + TensorFlow.</p>
-      <p><strong>Tech:</strong> Python, OpenCV, TensorFlow, Keras</p>
+    <td width="50%" valign="top">
+  ### 📊 [AI Resume Analyzer](https://github.com/hadishah123/resume-analyzer-ai)
+AI-powered resume analysis system using NLP to match candidates with job descriptions.
+
+🧠 NLP-based Skill Extraction  
+⚡ FastAPI Backend  
+📄 Resume Scoring System  
+
+**Tech:** Python, FastAPI, NLP, Machine Learning
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <h3>⚡ <a href="https://flashchat-tsjz.onrender.com"><strong>FlashChat</strong></a></h3>
-      <p>Real-time anonymous chat system with room-based messaging. Privacy-focused, no data storage.</p>
-      <p><strong>Tech:</strong> Node.js, Express, WebSocket, JavaScript</p>
+    <td valign="top">
+
+### ⚡ [FlashChat](https://flashchat-tsjz.onrender.com)
+Real-time anonymous chat application with room-based messaging and WebSocket communication.
+
+💬 Live Messaging  
+🔒 Privacy-Focused (No Storage)  
+⚡ Event-Driven Architecture  
+
+**Tech:** Node.js, Express, WebSocket, JavaScript
     </td>
-    <td align="center" valign="top">
-      <h3>🎮 <a href="https://rps-royale.onrender.com/"><strong>RPS-Royale</strong></a></h3>
-      <p>Multiplayer Rock-Paper-Scissors game with real-time gameplay across devices. Lightweight and interactive.</p>
-      <p><strong>Tech:</strong> React, Node.js, Socket.IO</p>
+    <td valign="top">
+
+### 😷 [Face Mask Detection](https://github.com/hadishah123/Face_Mask_Detection)
+Real-time face mask detection system using computer vision optimized for live webcam feeds.
+
+🎥 Live Video Processing  
+🧠 CNN Model (TensorFlow/Keras)  
+⚡ OpenCV Integration  
+
+**Tech:** Python, OpenCV, TensorFlow, Keras
     </td>
   </tr>
-  <tr>
-    <td align="center" valign="top">
-      <h3>🍎 <a href="https://justdiet.vercel.app"><strong>FitTrack</strong></a></h3>
-      <p>Diet & wellness management platform with BMI calculator & appointment booking. Built with React for dynamic UI.</p>
-      <p><strong>Tech:</strong> React, Tailwind, JavaScript</p>
-    </td>
-    <td align="center" valign="top">
-      <h3>📝 <a href="https://hadishah123.github.io/Resume-Builder"><strong>Resume Builder</strong></a></h3>
-      <p>Create resumes with customizable templates. Simple, user-friendly interface with fast, clean output generation.</p>
-      <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
-    </td>
-  </tr>
-</table>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</table><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <h2 align="center">⚙️ <strong>Programming & Technical Skills</strong></h2> -->
 
 <!-- Programming Languages -->
